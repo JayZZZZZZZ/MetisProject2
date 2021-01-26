@@ -22,4 +22,4 @@ Step 4:
 
 Model Building 
 
-- Code Attached: EDA & Model Building
+- Code Attached: EDA & Model Building.ipynb
