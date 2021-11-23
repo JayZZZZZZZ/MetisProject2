@@ -1,4 +1,4 @@
-# MetisProject-2
+# MetisProject2
 
 Purpose: Predicting NBA player's Salary based on NBA stats 
 
